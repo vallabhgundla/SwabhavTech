@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByValueApp", "CallByValueApp\CallByValueApp.csproj", "{58E006E6-9472-4FF0-810F-0230E756969F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E006E6-9472-4FF0-810F-0230E756969F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E006E6-9472-4FF0-810F-0230E756969F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E006E6-9472-4FF0-810F-0230E756969F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E006E6-9472-4FF0-810F-0230E756969F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F5C404-CB18-4015-BAFF-73A60DB3E85D}
+	EndGlobalSection
+EndGlobal

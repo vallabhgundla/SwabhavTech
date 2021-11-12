@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByRefApp", "CallByRefApp\CallByRefApp.csproj", "{84E54DD3-F8FC-45B6-894E-E297DC04DA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E54DD3-F8FC-45B6-894E-E297DC04DA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E54DD3-F8FC-45B6-894E-E297DC04DA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E54DD3-F8FC-45B6-894E-E297DC04DA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E54DD3-F8FC-45B6-894E-E297DC04DA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B2AC9E-804A-4E50-9A66-6A19635524CE}
+	EndGlobalSection
+EndGlobal

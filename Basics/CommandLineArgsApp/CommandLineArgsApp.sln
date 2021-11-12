@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineArgsApp", "CommandLineArgsApp\CommandLineArgsApp.csproj", "{DBC69DDB-A5C1-46A9-B75E-96FB61DAFEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC69DDB-A5C1-46A9-B75E-96FB61DAFEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC69DDB-A5C1-46A9-B75E-96FB61DAFEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC69DDB-A5C1-46A9-B75E-96FB61DAFEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC69DDB-A5C1-46A9-B75E-96FB61DAFEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5728CF1C-573D-4BC8-9F63-33270C80D3C3}
+	EndGlobalSection
+EndGlobal

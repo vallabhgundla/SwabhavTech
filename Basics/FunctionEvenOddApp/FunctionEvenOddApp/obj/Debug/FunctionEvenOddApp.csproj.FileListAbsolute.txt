@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\bin\Debug\FunctionEvenOddApp.exe
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\bin\Debug\FunctionEvenOddApp.pdb
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\obj\Debug\FunctionEvenOddApp.csproj.AssemblyReference.cache
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\obj\Debug\FunctionEvenOddApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\obj\Debug\FunctionEvenOddApp.exe
+D:\swabhavTech\C#\Basics\FunctionEvenOddApp\FunctionEvenOddApp\obj\Debug\FunctionEvenOddApp.pdb

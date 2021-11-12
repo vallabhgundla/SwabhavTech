@@ -1,0 +1,12 @@
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\bin\Debug\CommandLineDemoApp.exe
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\bin\Debug\CommandLineDemoApp.pdb
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.exe
+C:\Users\Shree\source\repos\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.pdb
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\bin\Debug\CommandLineDemoApp.exe
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\bin\Debug\CommandLineDemoApp.pdb
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.csproj.AssemblyReference.cache
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.exe
+D:\swabhavTech\C#\Basics\CommandLineDemoApp\CommandLineDemoApp\obj\Debug\CommandLineDemoApp.pdb

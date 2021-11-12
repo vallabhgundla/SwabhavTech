@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.pdb
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.exe
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.pdb
+D:\swabhavTech\C#\Basics\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.csproj.AssemblyReference.cache

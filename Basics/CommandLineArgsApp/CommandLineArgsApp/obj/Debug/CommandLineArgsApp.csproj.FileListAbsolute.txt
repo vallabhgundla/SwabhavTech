@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\bin\Debug\CommandLineArgsApp.exe
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\bin\Debug\CommandLineArgsApp.pdb
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\obj\Debug\CommandLineArgsApp.csproj.AssemblyReference.cache
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\obj\Debug\CommandLineArgsApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\obj\Debug\CommandLineArgsApp.exe
+D:\swabhavTech\C#\Basics\CommandLineArgsApp\CommandLineArgsApp\obj\Debug\CommandLineArgsApp.pdb

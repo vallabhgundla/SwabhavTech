@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\bin\Debug\FunctionApp.exe
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\bin\Debug\FunctionApp.pdb
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\obj\Debug\FunctionApp.csproj.AssemblyReference.cache
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\obj\Debug\FunctionApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\obj\Debug\FunctionApp.exe
+D:\swabhavTech\C#\Basics\FunctionApp\FunctionApp\obj\Debug\FunctionApp.pdb

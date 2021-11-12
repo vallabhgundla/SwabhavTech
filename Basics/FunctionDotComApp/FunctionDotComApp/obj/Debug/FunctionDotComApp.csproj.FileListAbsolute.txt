@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\bin\Debug\FunctionDotComApp.exe
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\bin\Debug\FunctionDotComApp.pdb
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\obj\Debug\FunctionDotComApp.csproj.AssemblyReference.cache
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\obj\Debug\FunctionDotComApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\obj\Debug\FunctionDotComApp.exe
+D:\swabhavTech\C#\Basics\FunctionDotComApp\FunctionDotComApp\obj\Debug\FunctionDotComApp.pdb

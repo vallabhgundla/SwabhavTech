@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\bin\Debug\CommandLineHomeWok.exe
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\bin\Debug\CommandLineHomeWok.pdb
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\obj\Debug\CommandLineHomeWok.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\obj\Debug\CommandLineHomeWok.exe
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\obj\Debug\CommandLineHomeWok.pdb
+D:\swabhavTech\C#\Basics\CommandLineHomeWok\CommandLineHomeWok\obj\Debug\CommandLineHomeWok.csproj.AssemblyReference.cache

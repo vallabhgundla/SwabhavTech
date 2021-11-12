@@ -1,0 +1,6 @@
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\bin\Debug\BasicsDemoApp.exe
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\bin\Debug\BasicsDemoApp.pdb
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\obj\Debug\BasicsDemoApp.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\obj\Debug\BasicsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\obj\Debug\BasicsDemoApp.exe
+C:\Users\Shree\source\repos\BasicsDemoApp\BasicsDemoApp\obj\Debug\BasicsDemoApp.pdb

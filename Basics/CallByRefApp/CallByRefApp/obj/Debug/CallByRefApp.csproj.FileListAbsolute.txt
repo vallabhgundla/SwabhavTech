@@ -1,0 +1,6 @@
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\bin\Debug\CallByRefApp.exe
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\bin\Debug\CallByRefApp.pdb
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\obj\Debug\CallByRefApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\obj\Debug\CallByRefApp.exe
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\obj\Debug\CallByRefApp.pdb
+D:\swabhavTech\C#\Basics\CallByRefApp\CallByRefApp\obj\Debug\CallByRefApp.csproj.AssemblyReference.cache
