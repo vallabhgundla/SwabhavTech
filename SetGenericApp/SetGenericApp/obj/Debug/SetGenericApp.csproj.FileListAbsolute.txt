@@ -1,0 +1,7 @@
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.exe.config
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.exe
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.pdb
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.exe
+D:\swabhavTech\OPP\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.pdb

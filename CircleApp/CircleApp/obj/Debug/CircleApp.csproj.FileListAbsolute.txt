@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+D:\swabhavTech\OPP\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+D:\swabhavTech\OPP\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+D:\swabhavTech\OPP\CircleApp\CircleApp\obj\Debug\CircleApp.pdb

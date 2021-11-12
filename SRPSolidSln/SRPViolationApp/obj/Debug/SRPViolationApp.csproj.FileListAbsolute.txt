@@ -1,0 +1,7 @@
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\bin\Debug\SRPViolationApp.exe.config
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\bin\Debug\SRPViolationApp.exe
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\bin\Debug\SRPViolationApp.pdb
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\obj\Debug\SRPViolationApp.csproj.AssemblyReference.cache
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\obj\Debug\SRPViolationApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\obj\Debug\SRPViolationApp.exe
+D:\SwabhavTech\SolidPrinciple\SRPSolidSln\SRPViolationApp\obj\Debug\SRPViolationApp.pdb

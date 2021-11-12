@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\bin\Debug\InheritanceConstructotApp1.exe
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\bin\Debug\InheritanceConstructotApp1.pdb
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\obj\Debug\InheritanceConstructotApp1.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\obj\Debug\InheritanceConstructotApp1.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\obj\Debug\InheritanceConstructotApp1.exe
+D:\swabhavTech\OPP\InheritanceConstructotApp1\InheritanceConstructotApp1\obj\Debug\InheritanceConstructotApp1.pdb

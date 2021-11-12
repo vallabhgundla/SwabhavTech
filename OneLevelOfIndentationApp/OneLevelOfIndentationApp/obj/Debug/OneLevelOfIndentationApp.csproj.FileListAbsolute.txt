@@ -1,0 +1,2 @@
+D:\swabhavTech\OPP\OneLevelOfIndentationApp\OneLevelOfIndentationApp\obj\Debug\OneLevelOfIndentationApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\OneLevelOfIndentationApp\OneLevelOfIndentationApp\obj\Debug\OneLevelOfIndentationApp.csproj.CoreCompileInputs.cache

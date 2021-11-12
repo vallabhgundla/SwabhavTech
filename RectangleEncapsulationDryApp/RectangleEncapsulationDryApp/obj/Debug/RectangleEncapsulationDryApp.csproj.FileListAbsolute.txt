@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\bin\Debug\RectangleEncapsulationDryApp.exe
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\bin\Debug\RectangleEncapsulationDryApp.pdb
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\obj\Debug\RectangleEncapsulationDryApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\obj\Debug\RectangleEncapsulationDryApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\obj\Debug\RectangleEncapsulationDryApp.exe
+D:\swabhavTech\OPP\RectangleEncapsulationDryApp\RectangleEncapsulationDryApp\obj\Debug\RectangleEncapsulationDryApp.pdb

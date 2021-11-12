@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\bin\Debug\CurdableApp.exe
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\bin\Debug\CurdableApp.pdb
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\obj\Debug\CurdableApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\obj\Debug\CurdableApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\obj\Debug\CurdableApp.exe
+D:\swabhavTech\OPP\CurdableApp\CurdableApp\obj\Debug\CurdableApp.pdb

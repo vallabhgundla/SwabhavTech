@@ -1,0 +1,7 @@
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\AccountCustomExceptionApp.exe.config
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\AccountCustomExceptionApp.exe
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\AccountCustomExceptionApp.pdb
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\AccountCustomExceptionApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\AccountCustomExceptionApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\AccountCustomExceptionApp.exe
+D:\swabhavTech\OPP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\AccountCustomExceptionApp.pdb

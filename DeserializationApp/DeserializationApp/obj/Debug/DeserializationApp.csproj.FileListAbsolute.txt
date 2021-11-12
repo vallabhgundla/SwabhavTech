@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\bin\Debug\DeserializationApp.exe
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\bin\Debug\DeserializationApp.pdb
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\obj\Debug\DeserializationApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\obj\Debug\DeserializationApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\obj\Debug\DeserializationApp.exe
+D:\swabhavTech\OPP\DeserializationApp\DeserializationApp\obj\Debug\DeserializationApp.pdb

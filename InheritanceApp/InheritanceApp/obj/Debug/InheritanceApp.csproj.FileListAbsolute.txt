@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+D:\swabhavTech\OPP\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb

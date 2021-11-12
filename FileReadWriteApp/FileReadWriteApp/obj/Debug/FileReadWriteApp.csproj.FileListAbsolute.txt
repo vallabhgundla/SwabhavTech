@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.pdb
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+D:\swabhavTech\OPP\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb

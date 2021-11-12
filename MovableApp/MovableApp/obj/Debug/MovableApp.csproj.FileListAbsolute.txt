@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\MovableApp\MovableApp\bin\Debug\MovableApp.exe
+D:\swabhavTech\OPP\MovableApp\MovableApp\bin\Debug\MovableApp.pdb
+D:\swabhavTech\OPP\MovableApp\MovableApp\obj\Debug\MovableApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\MovableApp\MovableApp\obj\Debug\MovableApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\MovableApp\MovableApp\obj\Debug\MovableApp.exe
+D:\swabhavTech\OPP\MovableApp\MovableApp\obj\Debug\MovableApp.pdb

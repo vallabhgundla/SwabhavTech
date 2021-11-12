@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\bin\Debug\SerializationApp.exe
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\bin\Debug\SerializationApp.pdb
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\obj\Debug\SerializationApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\obj\Debug\SerializationApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\obj\Debug\SerializationApp.exe
+D:\swabhavTech\OPP\SerializationApp\SerializationApp\obj\Debug\SerializationApp.pdb

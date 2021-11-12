@@ -1,0 +1,8 @@
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\bin\Debug\CalcLibApp.exe
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\bin\Debug\CalcLibApp.pdb
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\bin\Debug\AdvaitCalcLib (1).dll
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\obj\Debug\CalcLibApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\obj\Debug\CalcLibApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\obj\Debug\CalcLibApp.csproj.CopyComplete
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\obj\Debug\CalcLibApp.exe
+D:\swabhavTech\OPP\CalcLibApp\CalcLibApp\obj\Debug\CalcLibApp.pdb

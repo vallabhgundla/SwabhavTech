@@ -1,0 +1,7 @@
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\obj\Debug\GenericDictApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\obj\Debug\GenericDictApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\bin\Debug\GenericDictApp.exe.config
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\bin\Debug\GenericDictApp.exe
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\bin\Debug\GenericDictApp.pdb
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\obj\Debug\GenericDictApp.exe
+D:\swabhavTech\OPP\GenericDictApp\GenericDictApp\obj\Debug\GenericDictApp.pdb

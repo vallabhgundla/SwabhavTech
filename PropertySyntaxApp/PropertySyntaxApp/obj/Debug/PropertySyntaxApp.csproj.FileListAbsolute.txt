@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.exe
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.pdb
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.exe
+D:\swabhavTech\OPP\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.pdb

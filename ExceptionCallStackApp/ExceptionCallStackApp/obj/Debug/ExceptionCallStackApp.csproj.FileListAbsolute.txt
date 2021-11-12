@@ -1,0 +1,2 @@
+D:\swabhavTech\OPP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.csproj.CoreCompileInputs.cache

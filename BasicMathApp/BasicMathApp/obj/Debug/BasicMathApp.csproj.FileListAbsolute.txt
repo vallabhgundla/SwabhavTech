@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\bin\Debug\BasicMathApp.exe
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\bin\Debug\BasicMathApp.pdb
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\obj\Debug\BasicMathApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\obj\Debug\BasicMathApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\obj\Debug\BasicMathApp.exe
+D:\swabhavTech\OPP\BasicMathApp\BasicMathApp\obj\Debug\BasicMathApp.pdb

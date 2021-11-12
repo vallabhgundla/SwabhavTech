@@ -1,0 +1,6 @@
+D:\swabhavTech\OPP\StudenApp\StudenApp\bin\Debug\StudenApp.exe
+D:\swabhavTech\OPP\StudenApp\StudenApp\bin\Debug\StudenApp.pdb
+D:\swabhavTech\OPP\StudenApp\StudenApp\obj\Debug\StudenApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\StudenApp\StudenApp\obj\Debug\StudenApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\StudenApp\StudenApp\obj\Debug\StudenApp.exe
+D:\swabhavTech\OPP\StudenApp\StudenApp\obj\Debug\StudenApp.pdb
