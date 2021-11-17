@@ -1,0 +1,7 @@
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\bin\Debug\TemplateDesignPatternApp.exe.config
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\bin\Debug\TemplateDesignPatternApp.exe
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\bin\Debug\TemplateDesignPatternApp.pdb
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\obj\Debug\TemplateDesignPatternApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\obj\Debug\TemplateDesignPatternApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\obj\Debug\TemplateDesignPatternApp.exe
+D:\swabhavTech\OPP\TemplateDesignPatternApp\TemplateDesignPatternApp\obj\Debug\TemplateDesignPatternApp.pdb
